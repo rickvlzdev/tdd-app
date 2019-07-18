@@ -18,7 +18,6 @@ class DevelopmentConfig(BaseConfig):
     BCRYPT_LOG_ROUNDS = 4
 
 
-
 class TestingConfig(BaseConfig):
     """Development configuration"""
     TESTING = True
