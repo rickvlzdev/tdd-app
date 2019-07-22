@@ -9,6 +9,8 @@ class UserStatus extends Component {
       email: '',
       id: '',
       username: '',
+      active: '',
+      admin: ''
     };
   }
   componentDidMount() {
