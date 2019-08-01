@@ -17,5 +17,5 @@ before_script:
   - npm install
 
 script:
-  - bash test.sh
+  - bash test.sh stage
   
